@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Diogo Costa Pereira</h1>
+<h1 align="center">Oi 👋, Eu sou o Diogo</h1>
 <h3 align="center">Amante de tecnologia, negócios e produção de cerveja</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
